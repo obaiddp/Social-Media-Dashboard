@@ -1,0 +1,80 @@
+{
+    "totalFollowers": 23004,
+    "platforms": [
+      {
+        "platform": "Facebook",
+        "username": "@nathanf",
+        "followers": 1987,
+        "changeToday": 12
+      },
+      {
+        "platform": "Twitter",
+        "username": "@nathanf",
+        "followers": 1044,
+        "changeToday": 99
+      },
+      {
+        "platform": "Instagram",
+        "username": "@realnathanf",
+        "followers": 11000,
+        "changeToday": 1099
+      },
+      {
+        "platform": "YouTube",
+        "username": "Nathan F.",
+        "followers": 8239,
+        "changeToday": -144
+      }
+    ],
+    "overviewToday": [
+      {
+        "metric": "Page Views",
+        "platform": "Facebook",
+        "value": 87,
+        "change": 3
+      },
+      {
+        "metric": "Likes",
+        "platform": "Facebook",
+        "value": 52,
+        "change": -2
+      },
+      {
+        "metric": "Likes",
+        "platform": "Instagram",
+        "value": 5462,
+        "change": 2257
+      },
+      {
+        "metric": "Profile Views",
+        "platform": "Instagram",
+        "value": 52000,
+        "change": 1375
+      },
+      {
+        "metric": "Retweets",
+        "platform": "Twitter",
+        "value": 117,
+        "change": 303
+      },
+      {
+        "metric": "Likes",
+        "platform": "Twitter",
+        "value": 507,
+        "change": 553
+      },
+      {
+        "metric": "Likes",
+        "platform": "YouTube",
+        "value": 107,
+        "change": -19
+      },
+      {
+        "metric": "Total Views",
+        "platform": "YouTube",
+        "value": 1407,
+        "change": -12
+      }
+    ]
+  }
+  
